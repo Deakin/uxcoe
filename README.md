@@ -1,4 +1,4 @@
-uxcoe
+Deakin User Experience Centre of Excellence
 =====
 
-User Experience Centre of Excellence Prototype
+This is the prototype for the UX CoE.
